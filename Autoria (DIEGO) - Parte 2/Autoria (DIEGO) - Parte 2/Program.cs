@@ -10,10 +10,10 @@ class CantinaEscolar
     {
         { "Refrigerante", 4.00 },
         { "Água", 2.50 },
-        { "Salgado", 3.00 },
-        { "Biscoito", 1.50 },
-        { "Suco", 3.50 },
-        { "Pipoca", 2.00 }
+        { "Salgado", 6.00 },
+        { "Biscoito", 3.50 },
+        { "Suco", 4.50 },
+        { "Pipoca", 5.00 }
     };
 
     // Variável para armazenar o total da compra
